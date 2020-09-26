@@ -4,6 +4,6 @@ public class TestApp {
   int id;
   String name;
   String designation;
-  
+   String designation2;
   
 }
